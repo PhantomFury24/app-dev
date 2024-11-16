@@ -44,17 +44,6 @@
 
 ---
 
-## 🎨 **Design Highlights**
-### Visual Palette
-- **Primary Colors:**  
-  ![#8A3324](https://via.placeholder.com/15/8A3324/000000?text=+) Dark Red - Symbolizes blood and war  
-  ![#D3D3D3](https://via.placeholder.com/15/D3D3D3/000000?text=+) Gray - Represents the walls and somber atmosphere  
-  ![#2C5F2D](https://via.placeholder.com/15/2C5F2D/000000?text=+) Green - Survey Corps' signature cloaks
-
-- **Typography:** Elegant serif fonts for dialogue, bold sans-serif for action-packed moments.
-
----
-
 ## 🌍 **Cultural Impact**
 - **🏆 Accolades:**  
 Ranked as one of the greatest anime series of all time.  
